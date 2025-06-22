@@ -26,6 +26,7 @@ setup(
         'console_scripts': [
             'publisher = yolo_ros2.publisher:main',
             'subscriber = yolo_ros2.subscriber:main',
+            'subscriber1 = yolo_ros2.subscriber1:main',
         ],
     },
 )
